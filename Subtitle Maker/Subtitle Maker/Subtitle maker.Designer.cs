@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SubtitleMaker));
             this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.newToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -120,6 +121,8 @@
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabControl = new System.Windows.Forms.TabControl();
+            this.labelPlayerSubtitlePreview = new System.Windows.Forms.Label();
+            this.timer = new System.Windows.Forms.Timer(this.components);
             this.menuStrip1.SuspendLayout();
             this.tabPageSourceView.SuspendLayout();
             this.tabPageListView.SuspendLayout();
@@ -421,6 +424,7 @@
             // 
             this.groupBoxPlayer.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBoxPlayer.BackColor = System.Drawing.Color.Wheat;
+            this.groupBoxPlayer.Controls.Add(this.labelPlayerSubtitlePreview);
             this.groupBoxPlayer.Controls.Add(this.axWindowsMediaPlayer);
             this.groupBoxPlayer.Controls.Add(this.buttonPlayerLoadVideo);
             this.groupBoxPlayer.Controls.Add(this.buttonPlayerMoveCurrentTimeFor);
@@ -449,6 +453,7 @@
             // 
             // axWindowsMediaPlayer
             // 
+            this.axWindowsMediaPlayer.AllowDrop = true;
             this.axWindowsMediaPlayer.Enabled = true;
             this.axWindowsMediaPlayer.Location = new System.Drawing.Point(6, 23);
             this.axWindowsMediaPlayer.Name = "axWindowsMediaPlayer";
@@ -1150,6 +1155,23 @@
             this.tabControl.TabIndex = 2;
             this.tabControl.Tag = "";
             // 
+            // labelPlayerSubtitlePreview
+            // 
+            this.labelPlayerSubtitlePreview.AutoSize = true;
+            this.labelPlayerSubtitlePreview.BackColor = System.Drawing.Color.Transparent;
+            this.labelPlayerSubtitlePreview.ForeColor = System.Drawing.Color.Black;
+            this.labelPlayerSubtitlePreview.Location = new System.Drawing.Point(16, 155);
+            this.labelPlayerSubtitlePreview.MaximumSize = new System.Drawing.Size(352, 36);
+            this.labelPlayerSubtitlePreview.Name = "labelPlayerSubtitlePreview";
+            this.labelPlayerSubtitlePreview.Size = new System.Drawing.Size(126, 18);
+            this.labelPlayerSubtitlePreview.TabIndex = 20;
+            this.labelPlayerSubtitlePreview.Text = "Subtitle preview";
+            // 
+            // timer
+            // 
+            this.timer.Interval = 1;
+            this.timer.Tick += new System.EventHandler(this.timer_Tick);
+            // 
             // SubtitleMaker
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1159,7 +1181,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.MaximumSize = new System.Drawing.Size(1920, 1080);
-            this.MinimumSize = new System.Drawing.Size(1038, 760);
+            this.MinimumSize = new System.Drawing.Size(1038, 726);
             this.Name = "SubtitleMaker";
             this.Text = " ";
             this.Load += new System.EventHandler(this.SubtitleMaker_Load);
@@ -1279,6 +1301,8 @@
         private System.Windows.Forms.Label labelEditSubtitleIndexValue;
         private System.Windows.Forms.Label labelEditSubtitleIndex;
         public System.Windows.Forms.ListBox listBoxSourceView;
+        private System.Windows.Forms.Label labelPlayerSubtitlePreview;
+        private System.Windows.Forms.Timer timer;
     }
 }
 

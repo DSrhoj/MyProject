@@ -48,7 +48,6 @@ namespace Subtitle_Maker
                 listBoxSourceView.Items.Add(i + 1);
                 listBoxSourceView.Items.Add(SubtitlesList[i].StartTimeStringFormat + " --> " + SubtitlesList[i].EndTimeStringFormat);
 
-                string[] splitAt = new string[] { "<br />" };
                 string[] lines;
                 lines = System.Text.RegularExpressions.Regex.Split(SubtitlesList[i].Text, "<br />");
                 foreach (string line in lines)
@@ -294,8 +293,31 @@ namespace Subtitle_Maker
             buttonPlayerMute.Enabled = false;
             buttonPlayerVolUp.Enabled = false;
             buttonPlayerVolDown.Enabled = false;
+            timer.Enabled = false;
+
+        }
 
 
+
+        //
+        //timer
+        //
+        private void timer_Tick(object sender, EventArgs e)
+        {
+            int index = 0;
+
+            while (index < SubtitlesList.Count && (SubtitlesList[index].StartTimeDoubleFormat > axWindowsMediaPlayer.Ctlcontrols.currentPosition || axWindowsMediaPlayer.Ctlcontrols.currentPosition > SubtitlesList[index].EndTimeDoubleFormat))
+            {
+                index++;
+            }
+            if (index < SubtitlesList.Count)
+            {
+                labelPlayerSubtitlePreview.Text = SubtitlesList[index].Text.Replace("<br />", "\n");
+            }
+            else
+            {
+                labelPlayerSubtitlePreview.Text = "";
+            }
         }
 
         //
@@ -325,6 +347,7 @@ namespace Subtitle_Maker
                 StreamFromFile();
                 RefreshDataGridView();
                 RefreshSource();
+                timer.Enabled = true;
             }
         }
 
@@ -356,7 +379,7 @@ namespace Subtitle_Maker
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
 
-            openFileDialog.Filter = "AVI files (*.avi)|*.avi|MOV files (*.mov)|*.mov|MP4 files (*.mp4)|*.mp4|WMV files (*.wmv)|*.wmv|All files (*.*)|*.*";          //filter file extensions
+            openFileDialog.Filter = "MP4 files (*.mp4)|*.mp4|AVI files (*.avi)|*.avi|MOV files (*.mov)|*.mov|WMV files (*.wmv)|*.wmv|All files (*.*)|*.*";          //filter file extensions
 
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
