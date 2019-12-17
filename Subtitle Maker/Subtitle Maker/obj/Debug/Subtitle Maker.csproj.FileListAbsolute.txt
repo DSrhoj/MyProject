@@ -1,0 +1,108 @@
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe.config
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.pdb
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csprojResolveAssemblyReference.cache
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Form1.resources
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Properties.Resources.resources
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.GenerateResource.Cache
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.CoreCompileInputs.cache
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.exe
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.pdb
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Interop.WMPLib.dll
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.ResolveComReference.cache
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\bin\Debug\Interop.WMPLib.dll
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle Maker\Subtitle Maker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csprojResolveAssemblyReference.cache
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Interop.WMPLib.dll
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.ResolveComReference.cache
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Properties.Resources.resources
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.GenerateResource.Cache
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.CoreCompileInputs.cache
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.exe
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.pdb
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe.config
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.pdb
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\bin\Debug\Interop.WMPLib.dll
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.SubtitleMaker.resources
+C:\Users\Duje Srhoj\Documents\Visual Studio 2017\Projects\Subtitle-maker\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Forms.CreateNewFile.resources
+D:\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe.config
+D:\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe
+D:\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.pdb
+D:\Subtitle Maker\Subtitle Maker\bin\Debug\Interop.WMPLib.dll
+D:\Subtitle Maker\Subtitle Maker\bin\Debug\AxInterop.WMPLib.dll
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csprojResolveAssemblyReference.cache
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Interop.WMPLib.dll
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\AxInterop.WMPLib.dll
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.ResolveComReference.cache
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.SubtitleMaker.resources
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Forms.CreateNewFile.resources
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Properties.Resources.resources
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.GenerateResource.Cache
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.exe
+D:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.pdb
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csprojResolveAssemblyReference.cache
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Interop.WMPLib.dll
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\AxInterop.WMPLib.dll
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.ResolveComReference.cache
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.SubtitleMaker.resources
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Forms.CreateNewFile.resources
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Properties.Resources.resources
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.GenerateResource.Cache
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.CoreCompileInputs.cache
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.exe
+E:\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.pdb
+E:\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe.config
+E:\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe
+E:\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.pdb
+E:\Subtitle Maker\Subtitle Maker\bin\Debug\Interop.WMPLib.dll
+E:\Subtitle Maker\Subtitle Maker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe.config
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.pdb
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\bin\Debug\Interop.WMPLib.dll
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csprojResolveAssemblyReference.cache
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Interop.WMPLib.dll
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.ResolveComReference.cache
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.SubtitleMaker.resources
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Forms.CreateNewFile.resources
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Properties.Resources.resources
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.GenerateResource.Cache
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.CoreCompileInputs.cache
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.exe
+C:\Users\Duje Srhoj\Desktop\Kingston usb\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.pdb
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csprojAssemblyReference.cache
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Interop.WMPLib.dll
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.ResolveComReference.cache
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.exe
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.pdb
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe.config
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.pdb
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\bin\Debug\Interop.WMPLib.dll
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.SubtitleMaker.resources
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Forms.CreateNewFile.resources
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Properties.Resources.resources
+C:\Users\Duje\Desktop\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.GenerateResource.cache
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csprojAssemblyReference.cache
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Interop.WMPLib.dll
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.ResolveComReference.cache
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.SubtitleMaker.resources
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Forms.CreateNewFile.resources
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle_Maker.Properties.Resources.resources
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.csproj.GenerateResource.cache
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.exe
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\obj\Debug\Subtitle Maker.pdb
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe.config
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.exe
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\bin\Debug\Subtitle Maker.pdb
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\bin\Debug\Interop.WMPLib.dll
+C:\Users\Duje\Desktop\Duje 2.god\Objektno\Subtitle Maker\Subtitle Maker\bin\Debug\AxInterop.WMPLib.dll
